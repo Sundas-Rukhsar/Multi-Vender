@@ -1,0 +1,67 @@
+.wt-fill-white {
+  fill: #ffffff !important;
+}
+.wt-bg-beeswax-tint {
+  background-color: #f4dbc2 !important;
+}
+.wt-overflow-hidden {
+  overflow: hidden !important;
+}
+.wt-position-relative {
+  position: relative !important;
+}
+.wt-edge .wt-edge--smaller svg {
+  height: 24px;
+}
+.rounded-underline {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50px;
+  height: 3px;
+  border-radius: 10px;
+  background-color: black;
+}
+.twocolor {
+  background-color: #c2c2f4;
+}
+.aunderline {
+  top: 60px;
+  width: 80px;
+  height: 5px;
+}
+.Cetagories {
+  margin-top: 20px;
+}
+/* p {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 10px;
+  line-height: 1.5;
+} */
+
+/* @media only screen and (min-width: 768px) {
+  p {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  p {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+} */
+
+/* @media (min-width: 1200px) {
+  p {
+    font-size: 16px;
+  }
+}
+/* If the screen size is smaller than 1200px, set the font-size to 80px */
+/* @media (max-width: 1199.98px) {
+  p {
+    font-size: 10px;
+  }
+} */

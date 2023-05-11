@@ -1,0 +1,28 @@
+.btn {
+  /* height: 150px;  */
+  background-color: white;
+  width: 45vh;
+  justify-content: center;
+}
+section {
+  justify-content: center;
+}
+.underline {
+  top: 60px;
+  width: 80px;
+  height: 5px;
+}
+/* .Cetagories{
+    margin-top: 20px;
+} */
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+  padding-top: 20px;
+}
+h4 {
+  color: #000;
+}
+.cat {
+  width: auto;
+}
